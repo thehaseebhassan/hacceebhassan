@@ -1,13 +1,12 @@
 ### Hello there 👋
 
-```html
 <img
   style="border-radius: 50%"
   align="right"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   width="230"
 />
-```
+
 
 [![Twitter: hacceebhassan](https://img.shields.io/twitter/follow/hacceebhassan?style=social)](https://twitter.com/hacceeb_hassan)
 [![Linkedin: hacceebhassan](https://img.shields.io/badge/-hacceebhassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hacceebhassan/)
