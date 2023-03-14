@@ -19,9 +19,9 @@
 class Developer:
 
     def __init__(self):
-        self.name = "Muhammad Haseeb Hassan"
-        self.role = "Data & Software Engineer"
-        self.company = "Moxoff Spa - Spinoff del Polytechnic University of Milan"
+        self.name = "M. Haseeb Hassan"
+        self.role = "Co-Founder"
+        self.company = "ALGORYC"
         self.language_spoken = ["English", "Urdu", "Italian"]
 
     def say_hi(self):
