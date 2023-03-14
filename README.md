@@ -8,8 +8,8 @@
 />
 
 
-[![Twitter: hacceebhassan](https://img.shields.io/twitter/follow/hacceebhassan?style=social)](https://twitter.com/hacceebhassan)
-[![Linkedin: hacceebhassan](https://img.shields.io/badge/-hacceebhassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hacceebhassan/)
+[![Twitter: hacceebhassan](https://img.shields.io/twitter/follow/hacceebhassan?style=social)](https://twitter.com/thehaseebhassan)
+[![Linkedin: hacceebhassan](https://img.shields.io/badge/-hacceebhassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thehaseebhassan/)
 [![GitHub hacceebhassan](https://img.shields.io/github/followers/hacceebhassan?label=follow&style=social)](https://github.com/hacceebhassan)
 
 
